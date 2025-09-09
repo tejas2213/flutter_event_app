@@ -77,7 +77,7 @@ lib/
 ### Steps
 1. Clone the repository  
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/tejas2213/flutter_event_app.git
    cd events_app
 
 2. Install dependencies
